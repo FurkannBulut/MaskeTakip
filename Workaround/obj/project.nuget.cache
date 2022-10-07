@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+CjYZrcQekcKDP4ImWqB/RZTlnU8xpDZdohPSkCISzuIVisNayhZf3WcGsM2aL/155GXJsvsTUIqdJskj2xfw==",
+  "dgSpecHash": "s4v5Ncb0DKvwYtXfr8HBFzRKIxtP0fIHQSBMoFwFSsguU4ZqBpAG42NDSdpPErpUoZ1agNuapaRt3ifUEmZ8mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj",
+  "projectFilePath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Workaround\\Workaround.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bulut\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\bulut\\.nuget\\packages\\system.private.servicemodel\\4.6.0\\system.private.servicemodel.4.6.0.nupkg.sha512",

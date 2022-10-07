@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj": {}
+    "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Workaround\\Workaround.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Business\\Business.csproj": {
+    "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\bulut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Business\\obj\\",
+        "outputPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bulut\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj"
+              "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj": {
+    "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\bulut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bulut\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj": {
+    "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Workaround\\Workaround.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj",
+        "projectUniqueName": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Workaround\\Workaround.csproj",
         "projectName": "Workaround",
-        "projectPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Workaround\\Workaround.csproj",
+        "projectPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Workaround\\Workaround.csproj",
         "packagesPath": "C:\\Users\\bulut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Workaround\\obj\\",
+        "outputPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Workaround\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bulut\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,11 +160,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Business\\Business.csproj"
+              "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Business\\Business.csproj"
               },
-              "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj"
+              "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj"
               }
             }
           }

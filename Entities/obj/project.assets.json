@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\bulut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bulut\\source\\repos\\MaskeTakip\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\bulut\\Documents\\GitHub\\MaskeTakip\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bulut\\AppData\\Roaming\\NuGet\\NuGet.Config",

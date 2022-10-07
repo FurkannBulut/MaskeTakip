@@ -15,6 +15,7 @@ namespace Workaround
 
         static void Main(string[] args)
         {
+            //ornek person
             Person person1 = new Person();
             person1.NationalIdentity = 10000000000;
             person1.FirstName = "AD";
